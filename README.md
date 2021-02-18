@@ -1,5 +1,5 @@
-# Favorite Movie Project
+## Movie Review Project
 
-The present website was developed for the course "Interactive Design". For the project we had to select a movie that we liked and create a simple website on that movie. 
-If you would like to see it deployed you can access it here -> https://acsanchezr.github.io/web_2tdc/index.html
-If you would like to see the design process, you can do it here -> https://www.behance.net/gallery/86257969/Pagina-Web-Resena-de-Pelicula-%28Movie-Review-Website%29
+#### This website was developed as part of the "Interactive Design" course curriculum. The goal of the project was to get familiar with the design process of a website; After creating a style tile using Illustrator and Photoshop, and the wireframe with Figma, the website was implemented with DreamWeaver, using HTML, CSS, and some JavaScript.
+#### You can see more of the process <a href="https://www.behance.net/gallery/86257969/Pagina-Web-Resena-de-Pelicula-%28Movie-Review-Website%29
+">here</a>.
